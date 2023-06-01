@@ -1,0 +1,4 @@
+module-info.class
+com\mycompany\projetoteste\PrimaryController.class
+com\mycompany\projetoteste\SecondaryController.class
+com\mycompany\projetoteste\App.class
